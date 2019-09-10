@@ -1,2 +1,2 @@
-# back-to-home-d5gamejam
-A PC game built under 48hrs for the D5GAMEJAM annual game developers event
+# Ethio Car Racing Mobile Game
+A mobile game built using Unity 
